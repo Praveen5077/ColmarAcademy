@@ -1,4 +1,4 @@
-** Colmar Academy**
+**Colmar Academy**
 
  This project is a static website for Colmar Academy, an educational institution offering both on-campus and online courses for various subjects. The website is designed to be responsive and accessible on different devices.
 
