@@ -1,17 +1,20 @@
-**Colmar Academy**
+# Colmar Academy Website
 
- This project is a static website for Colmar Academy, an educational institution offering both on-campus and online courses for various subjects. The website is designed to be responsive and accessible on different devices.
+Welcome to the Colmar Academy Website repository! This project is the official website for Colmar Academy, a fictional educational institution. The website serves as a platform for showcasing information about the academy, its programs, faculty, and more.
 
-**Project Structure**
+## Features
 
-The project consists of HTML and CSS files:
-index.html: The main HTML file containing the structure of the website.
-styles.css: The CSS file containing the styling for the website.
+- **Homepage**: Engaging landing page with highlights about the academy, mission statement, and featured programs.
+- **Programs**: Detailed information about various academic programs offered at Colmar Academy, including descriptions, courses, and faculty.
+- **Faculty Profiles**: Profiles of faculty members, including their backgrounds, expertise, and contact information.
+- **Admissions**: Information and resources for prospective students, including application procedures, admission requirements, and deadlines.
+- **Events**: Calendar of events, seminars, workshops, and other activities organized by the academy.
+- **Contact**: Contact form and details for inquiries, feedback, and general communication.
 
-**Technologies Used**
+## Technologies Used
 
-HTML5: Markup language for creating the structure of the web pages.
+- **HTML5**
+- **CSS3**
+- **JavaScript (Optional)**
 
-CSS3: Styling language used to enhance the appearance of the website.
 
-Google Fonts: Imported Roboto font for consistent typography.
