@@ -15,6 +15,6 @@ Welcome to the Colmar Academy Website repository! This project is the official w
 
 - **HTML5**
 - **CSS3**
-- **JavaScript **
+- **JavaScript** 
 
 
